@@ -1,0 +1,1 @@
+This is the readme for the Git-Test project. This project is for an assigment in CSCI 325.
